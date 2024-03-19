@@ -393,7 +393,9 @@ a {
         width: 25%;
     }
 
-
+    .title-3::before, .title-3::after{
+        width: 28%;
+    }
 }
 
 @media(max-width:992px) {
@@ -469,6 +471,10 @@ a {
     .title-1::after {
         bottom: 38px;
         width: 21%;
+    }
+
+    .title-3::before, .title-3::after{
+        width: 24%;
     }
 
     .title {
