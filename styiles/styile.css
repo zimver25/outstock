@@ -439,8 +439,8 @@ a {
     font-size: 18px;
     font-weight: 700;
     color: var(--c-grey-text);
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    margin: auto;
     width: 730px;
 }
 
